@@ -1,5 +1,5 @@
 {
-    "name": "nathanmac/laravel-parser",
+    "name": "iainmullan/laravel-parser",
     "description": "Simple Format Parser For Laravel 4",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     "require": {
         "php": ">=5.4.0",
         "symfony/yaml": "2.4.*",
-        "illuminate/support": "4.1.*"
+        "illuminate/support": "4.2.*"
     },
     "autoload": {
         "psr-0": {
